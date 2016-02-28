@@ -1,12 +1,12 @@
 Package: varian
 Type: Package
-Version: 0.2.1
+Version: 0.2.2
 Title: Variability Analysis in R
 Description: Uses a Bayesian model to
     estimate the variability in a repeated
     measure outcome and use that as an outcome or a predictor
     in a second stage model.
-Date: 2015-7-24
+Date: 2016-2-28
 Author: Joshua F. Wiley [aut, cre],
   Elkhart Group Limited [cph]
 Maintainer: Joshua F. Wiley <josh@elkhartgroup.com>
@@ -18,6 +18,6 @@ Suggests: testthat
 LazyLoad: yes
 License: MIT + file LICENSE
 NeedsCompilation: no
-Packaged: 2015-07-24 12:46:24 UTC; Joshua
+Packaged: 2016-02-28 11:18:15 UTC; Joshua
 Repository: CRAN
-Date/Publication: 2015-07-24 18:21:42
+Date/Publication: 2016-02-28 12:57:15

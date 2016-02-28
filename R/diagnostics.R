@@ -17,6 +17,7 @@
 #' @param \dots Additional arguments (not currently used)
 #' @return A list containing the \code{Combined} and the \code{Individual} plot objects.
 #' @author Joshua F. Wiley <josh@@elkhartgroup.com>
+#' @importFrom grid grid.draw
 #' @export
 #' @keywords hplot
 #' @examples
